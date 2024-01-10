@@ -7,8 +7,9 @@ This repository contains a simple and elegant Todo List app built using Kotlin a
 - Add new todos with a user-friendly interface.
 - Mark todos as completed.
 - Save todos to the local storage for persistent data.
-- Schedule your to-dos
-- Change to-dos status
+- Set priority to low,medium,high.
+- Schedule your todos
+- Change to-do status from inprogress to complete
 
 ## Live Demo
 
