@@ -1,4 +1,4 @@
-# Simple Todo List Web App with Kotlin and Android Studio
+# Simple Todo List App with Kotlin and Android Studio
 
 This repository contains a simple and elegant Todo List app built using Kotlin and Android Studio. The app allows users to create, manage, and save todos, all while enjoying a beautiful user interface design.
 
